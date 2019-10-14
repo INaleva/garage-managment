@@ -1,3 +1,4 @@
 # garage-managment
-simple garage managment system made in C#
-made with a classmate.
+ garage managment system made in C#
+ 
+window application for managing garage, lets you enter new vehicles, owners, change vehicles status and get their information.
